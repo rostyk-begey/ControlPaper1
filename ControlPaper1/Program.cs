@@ -1,5 +1,4 @@
 ﻿using System;
-using ControlPaper1.Task1;
 
 namespace ControlPaper1
 {
@@ -7,7 +6,8 @@ namespace ControlPaper1
     {
         static void Main(string[] args)
         {
-            Task1.Task1.Run();
+            // Task1.Task1.Run();
+            Task2.Task2.Run();
         }
     }
 }
